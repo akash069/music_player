@@ -10,13 +10,13 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Anim@ls - Mortals [NCS Release]", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "divine [3:59]", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {songName: "tommy shelby", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "Rave in the grave[NCS Release]", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "Eminem-Lose Yourself", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Button[Showmusik]", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Brown rang[Honey singh]", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"}
+    {songName: "Anim@ls - Mortals [NCS Release]", filePath: "1.mp3", coverPath: "1.jpg"},
+    {songName: "divine [3:59]", filePath: "2.mp3", coverPath: "2.jpg"},
+    {songName: "tommy shelby", filePath: "3.mp3", coverPath: "3.jpg"},
+    {songName: "Rave in the grave[NCS Release]", filePath: "4.mp3", coverPath: "4.jpg"},
+    {songName: "Eminem-Lose Yourself", filePath: "5.mp3", coverPath: "5.jpg"},
+    {songName: "Button[Showmusik]", filePath: "2.mp3", coverPath: "6.jpg"},
+    {songName: "Brown rang[Honey singh]", filePath: "2.mp3", coverPath: "7.jpg"}
    
 ]
 
